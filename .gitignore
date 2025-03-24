@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+fuzzbench.tar.gz
+report.txt
+analyze_output/
+output*
+*.tar
+analyze_output*
+.vscode/
